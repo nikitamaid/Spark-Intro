@@ -1,0 +1,156 @@
+city,stars
+Ahwahtukee,5.0
+Ahwatukee Foothills Village,5.0
+Alburg,5.0
+Auburn,5.0
+Austin,5.0
+Barberton,5.0
+Beltline,5.0
+Belœil,5.0
+Bentleyville,5.0
+Black Rock City,5.0
+Broadlands,5.0
+Bury,5.0
+CALGARY,5.0
+CARSON,5.0
+CAVE CREEK,5.0
+Cave Creek Road,5.0
+Cave creek,5.0
+Chandler-Gilbert,5.0
+Chateau,5.0
+Chattanooga,5.0
+Closter,5.0
+Cranberry Township,5.0
+Crouse,5.0
+East Mesa,5.0
+Edgemont,5.0
+Fitchburgh,5.0
+Garrettsville,5.0
+Godmanchester,5.0
+Greenway,5.0
+Henderson Nevada,5.0
+Huntington Beach,5.0
+Las Vegas Valley,5.0
+Las Vegas,,5.0
+Las Vergas,5.0
+Laval, Ste Dorothee,5.0
+Leaside,5.0
+Les Coteaux,5.0
+Litchfield park,5.0
+Mesa Arizona,5.0
+Montville,5.0
+Nationwide,5.0
+Nevada,5.0
+New River,5.0
+North Carolina,5.0
+North Olmsted,,5.0
+North Phoenix,5.0
+Northeast Calgary,5.0
+O'hara Township,5.0
+Oakwood village,5.0
+Old Brooklyn,5.0
+Parma mid birth,5.0
+Pasadena,5.0
+Phoenix Metro Area,5.0
+Phoenx,5.0
+Point-Claire,5.0
+QUEEN CREEK,5.0
+Rainbow Valley,5.0
+Rougemont,5.0
+SUN PRAIRIE,5.0
+Sainte-Marthe,5.0
+Scotsdale,5.0
+Scottadale,5.0
+Scottsale,5.0
+Seattle,5.0
+Shady Side,5.0
+South Russell,5.0
+St. Joseph,5.0
+Sun CIty,5.0
+Suncity,5.0
+TOLLESON,5.0
+Tempe ,5.0
+Twinsburgh,5.0
+Valencia,5.0
+Vieux-Montréal,5.0
+las Vegas,5.0
+south Euclid,5.0
+AVON,4.9523809523809526
+Temecula,4.9411764705882355
+Clinton,4.916666666666667
+Côte-Saint-Luc,4.888888888888889
+Valleywide,4.888888888888889
+Mooers,4.875
+Union,4.875
+Painesville Township,4.857142857142857
+Saintt-Bruno-de-Montarville,4.857142857142857
+South Charlotte,4.842105263157895
+Allegheny,4.833333333333333
+L'ile-Bizard,4.833333333333333
+Grand Canyon,4.818181818181818
+Noyan,4.8
+110 Las Vegas,4.797297297297297
+Lakewood, Oh,4.777777777777778
+Scottsdale, AZ,4.777777777777778
+Cuyahoga Heights,4.7727272727272725
+GIlbert,4.771428571428571
+Sunnyslope,4.769230769230769
+henderson,4.76595744680851
+Arizona,4.75
+Mississauaga,4.75
+Mt. Horeb,4.75
+Nottingham Township,4.75
+Rural Ridge,4.75
+Saint-Pierre-de-Véronne-à-Pike-River,4.75
+Sainte-Marguerite-du-lac-Masson,4.75
+Scotesdale,4.75
+Val-Morin,4.75
+Las Vegas Nv,4.733333333333333
+LAVEEN,4.714285714285714
+Sutersville,4.714285714285714
+INDIAN LAND,4.7
+Lynhurst,4.7
+Hendserson,4.6923076923076925
+Marvin,4.6923076923076925
+Rillton,4.6923076923076925
+surprise,4.6923076923076925
+Urbana, Illinois,4.681818181818182
+City Center,4.68
+Boston,4.666666666666667
+Brownsburg-Chatham,4.666666666666667
+CAREFREE,4.666666666666667
+Deux-Montagnes Regional County Municipality,4.666666666666667
+Farnham,4.666666666666667
+Grove City,4.666666666666667
+Hamilton,4.666666666666667
+Henryville,4.666666666666667
+Ivesdale,4.666666666666667
+Les Cèdres,4.666666666666667
+Mansfield,4.666666666666667
+Port Vue,4.666666666666667
+Red Rock,4.666666666666667
+Southside Flats,4.666666666666667
+St-Lazare,4.666666666666667
+Toronto-West,4.666666666666667
+Le Sud-Ouest,4.6521739130434785
+Lawrence,4.647058823529412
+Homer,4.64
+Ormstown,4.625
+springdale,4.625
+San Tan Valley,4.619047619047619
+Columbus,4.617647058823529
+SCOTTSDALE,4.617021276595745
+las vegas,4.608695652173913
+West Montréal,4.603174603174603
+Estrella Village,4.6
+Richmonhill,4.6
+Whitney,4.6
+NORTH LAS VEGAS,4.593023255813954
+Pahrump,4.583333333333333
+glendale,4.583333333333333
+Mayfield Heights (Cleveland),4.576923076923077
+Montréal (Québec),4.571428571428571
+North Scottsdale,4.571428571428571
+River Drive Park,4.571428571428571
+Brooklyn Hts.,4.555555555555555
+Wellington,4.555555555555555
